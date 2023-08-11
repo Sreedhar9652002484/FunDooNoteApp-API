@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "unAOMcza4Wt5Lv9t67du4TuWAan2glZvVr9//YWQrJookrAxJkeeI6scuxFd/NcMza1wZp5TpSY/3DScYnbkUQ==",
+  "dgSpecHash": "gpL1A2lPlQlxRIHR3lxj+PpzMQhUPHgmpNOqulVWTMYfSa0SLqSuhwmbQ4Vs/hScPIWH12vizzz5mXKtk91W9g==",
   "success": true,
   "projectFilePath": "C:\\Users\\acer\\source\\repos\\FunDooNoteWebApp\\CommonLayer\\CommonLayer.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\acer\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
   "logs": []
 }
